@@ -2,7 +2,7 @@
 title: "Pizza Pasta Bake"
 description: "Pizza Pasta Bake"
 pubDate: "Aug 14 2025"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/pizza-pasta-bake.jpg"
 serves: 4
 prep: 10m
 cook: 20m
